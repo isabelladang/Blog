@@ -1,0 +1,30 @@
+body {
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.center {
+	border: 20px solid #ffe6f2;
+	max-width: 550px;
+    margin: auto;
+}
+.date {
+	color: #ff99cc;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.one {
+	border-left: 3px solid #ffb3d9;
+	padding-left: 4px;
+
+}
+
+h2 {
+    color: #99004d;
+    text-transform: capitalize;
+    font-weight: bold;
+
+}	
